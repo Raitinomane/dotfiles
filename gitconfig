@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = raitinomane@gmail.com
+	name = Raiti Nomane
